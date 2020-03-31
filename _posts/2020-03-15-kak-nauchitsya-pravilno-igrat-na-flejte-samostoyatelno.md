@@ -7,7 +7,7 @@ breadtitle: Учиться играть на флейте
 heading: Учиться играть на флейте
 ---
 
-![](https://pochitai.club/images/kak-nauchitsya-igrat-na-flejte.jpg)  ![](https://pochitai.club/images/kak-igrat-na-flejte.jpg)
+![](https://pochitai.club/images/kak-nauchitsya-igrat-na-flejte.jpg)  
 
 Флейта — один из самых популярных духовых инструментов с утонченным красивым звучанием. Он идеально звучит как солирующий инструмент, так и в составе большого оркестра. Первые аналоги современных флейт появились около 30 000 лет назад, поэтому она считается одним из самых древних инструментов.
 
